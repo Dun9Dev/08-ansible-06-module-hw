@@ -191,5 +191,7 @@ if __name__ == '__main__':
 ![img](https://github.com/Dun9Dev/08-ansible-06-module-hw/blob/main/img/Screenshot_25.png)
 
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
-[collection](https://github.com/Dun9Dev/08-ansible-06-module-hw)
-[tar.gz архив](https://github.com/Dun9Dev/08-ansible-06-module-hw/blob/main/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
+
+
+**[collection](https://github.com/Dun9Dev/08-ansible-06-module-hw)**
+**[tar.gz архив](https://github.com/Dun9Dev/08-ansible-06-module-hw/blob/main/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)**
