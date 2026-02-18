@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  connection: local
+  roles:
+    - role: my_own_namespace.yandex_cloud_elk.my_own_role
+      file_path: /tmp/from_playbook.txt
+      file_content: "Created from playbook via role"

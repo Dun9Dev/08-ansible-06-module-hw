@@ -1,0 +1,34 @@
+{
+ "collection_info": {
+  "namespace": "my_own_namespace",
+  "name": "yandex_cloud_elk",
+  "version": "1.0.0",
+  "authors": [
+   "Dun9Dev"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "file",
+   "module",
+   "test"
+  ],
+  "description": "Collection with my own module for creating files",
+  "license": [
+   "MIT"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "https://github.com/Dun9Dev/08-ansible-06-module-hw",
+  "documentation": "https://github.com/Dun9Dev/08-ansible-06-module-hw",
+  "homepage": "https://github.com/Dun9Dev/08-ansible-06-module-hw",
+  "issues": "https://github.com/Dun9Dev/08-ansible-06-module-hw/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "c4bc9a9a496f7ec77f41495b92961b209b3eb8bd33fa129b5b598de23cd36eaa",
+  "format": 1
+ },
+ "format": 1
+}

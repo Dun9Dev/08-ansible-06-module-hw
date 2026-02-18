@@ -1,0 +1,17 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Dun9Dev
+description: Collection with my own module for creating files
+license:
+  - MIT
+tags:
+  - file
+  - module
+  - test
+repository: https://github.com/Dun9Dev/08-ansible-06-module-hw
+documentation: https://github.com/Dun9Dev/08-ansible-06-module-hw
+homepage: https://github.com/Dun9Dev/08-ansible-06-module-hw
+issues: https://github.com/Dun9Dev/08-ansible-06-module-hw/issues
